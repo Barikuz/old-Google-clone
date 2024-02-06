@@ -1,0 +1,10 @@
+/* Centers elements */
+.center {
+    margin: auto;
+    text-align: center;
+}
+
+/* Button customizations */
+button{
+    font-size: 15px;
+}
